@@ -1,23 +1,10 @@
 ## Description
-Unlock Ultra Graphics And 120 FPS for Mobile Legends: Bang Bang, Touch Improvement, Unlock 90 FPS for PUBG Mobile, and etc.
-
-**All In One Module:**
-* Device Info Changer (Xiaomi Mi 11 Ultra)
-   * Brand, manufacturer, marketname, and model.
-* Touch Improvement
-   * Reduce touch delay, latency, etc.
+Add Zram To Your Phone
 
 ## Notes
-More info about this module please read on MI 11 Ultra Props official github.
-* https://github.com/alicee98/MI-11-Ultra-Props
+More info about this module please read on Zram Modules official github.
+* https://github.com/alicee98/Zram-Modules
 
 ## Changelog
-**v2**
-* Add Bypasser For Not Supported App For Some Device In Play Store
-
-**v3**
-* Add New Tweaks Performance For Gaming
-
-**v4**
-* Add updateJson
-* Add Fast Charge Feature
+**v1**
+* Initial release
