@@ -5,7 +5,7 @@ Add Zram To Your Phone
 * alicee98 aka Yudha
 
 ## Contact
-* t.me/alicee98
+* [@yudhased](t.me/yudhased)
 
 ## Requirement
 * Magisk 23.0+
